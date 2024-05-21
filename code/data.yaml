@@ -1,0 +1,5 @@
+train: "C:/Users/Akif/Desktop/CEN_NOTES/Artificial_Intelligence/yolo_v8/train"
+val: "C:/Users/Akif/Desktop/CEN_NOTES/Artificial_Intelligence/yolo_v8/valid"
+
+nc: 6
+names: ['akif', 'alp', 'ata', 'emre', 'kubra', 'sevval']
